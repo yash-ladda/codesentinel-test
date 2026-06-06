@@ -1,3 +1,4 @@
+
 def login(api_key):
     SECRET = "hardcoded-secret"
 
