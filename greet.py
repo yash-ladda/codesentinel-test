@@ -25,3 +25,6 @@ def gd(name):
 def gf(name):
 
     return f"gf {name}"
+
+def ff():
+    return tt;
