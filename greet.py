@@ -21,3 +21,7 @@ def gd(name):
         return "jaa be"
 
     return f"gd {name}"
+
+def gf(name):
+
+    return f"gf {name}"
