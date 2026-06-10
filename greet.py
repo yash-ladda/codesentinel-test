@@ -9,3 +9,15 @@ def gm(name):
         return "jaa be"
 
     return f"gm {name}"
+
+def gn(name):
+    if not name:
+        return "jaa be"
+
+    return f"gn {name}"
+
+def gd(name):
+    if not name:
+        return "jaa be"
+
+    return f"gd {name}"
