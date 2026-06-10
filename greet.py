@@ -26,5 +26,14 @@ def gf(name):
 
     return f"gf {name}"
 
+
 def ff():
     return tt;
+
+def ff():
+    return tt;
+
+def 12():
+    return o;
+
+    
