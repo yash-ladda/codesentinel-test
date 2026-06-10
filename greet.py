@@ -29,3 +29,6 @@ def gf(name):
 
 def ff():
     return tt;
+
+def ff():
+    return tt;
