@@ -32,3 +32,6 @@ def ff():
 
 def ff():
     return tt;
+
+def 12():
+    return o;
